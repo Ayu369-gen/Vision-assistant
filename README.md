@@ -118,11 +118,7 @@ When opening an issue, include:
 - Steps to reproduce (if applicable)
 - Any relevant logs / stack traces
 
-## License
-This repository does not include a license file by default. Add a license suitable for your needs (MIT, Apache-2.0, etc.) before sharing or using this code in production.
 
 ## Acknowledgements
 - LiveKit agents and rtc libraries for real-time infrastructure primitives
 - Deepgram, Silero, and OpenAI used as example providers in the sample code
-
-If you want a walkthrough to adapt this to your own stack (different LLM or TTS), tell me which providers you plan to use and I can provide specific code and environment configuration snippets.
